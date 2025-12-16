@@ -37,4 +37,19 @@ The system takes the following inputs:
 ---
 
 ## 🏗️ Project Structure
+crop-Recomendation/
+│
+├── app.py # Flask application
+├── train_model.py # ML model training script
+├── forms.py # Input forms
+├── config.py # Configuration settings
+├── models/ # Saved ML models
+├── templates/ # HTML templates
+├── static/ # CSS / JS files
+├── requirements.txt # Project dependenci
 
+
+🙌 Author
+
+Raja Ganapathi
+GitHub: https://github.com/rajaganapathi672
