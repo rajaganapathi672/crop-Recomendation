@@ -37,7 +37,7 @@ def recommend():
         return render_template('recommendation.html', 
                             crop=prediction[0], 
                             soil_type=soil_type,
-                            N=N, P=P, K=K,
+
                             temperature=temperature,
                             humidity=humidity,
                             ph=ph,
